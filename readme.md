@@ -22,7 +22,7 @@ cd armorpaint/paint
 ```
 
 **Linux (x64)**
-```bash
+```bash...
 ../base/make --run
 ```
 
